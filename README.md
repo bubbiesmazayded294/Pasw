@@ -217,4 +217,4 @@ PASW is available as a full free version, providing users with complete access t
 Unlock your data potential today! Download PASW now and take your statistical analysis to the next level.
 
 ---
-**Last updated:** 2026-10-24 14:11:53 UTC
+**Last updated:** 2026-10-24 17:46:04 UTC
